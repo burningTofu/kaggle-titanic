@@ -1,0 +1,4 @@
+.kaggle-cli
+.ipynb_checkpoints
+*.csv
+
